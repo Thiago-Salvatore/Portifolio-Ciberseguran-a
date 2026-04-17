@@ -19,10 +19,10 @@ Um usuário recebe o seguinte email:
 
 Durante a análise, foram identificados os seguintes sinais suspeitos:
 
-* Uso de linguagem urgente ("imediatamente", "será bloqueada")
-* Link suspeito com domínio não oficial
-* Falta de personalização (não menciona o nome do usuário)
-* Possível tentativa de roubo de credenciais
+- Uso de linguagem urgente ("imediatamente", "será bloqueada")
+- Link suspeito com domínio não oficial
+- Falta de personalização (não menciona o nome do usuário)
+- Possível tentativa de roubo de credenciais
 
 ---
 
