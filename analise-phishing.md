@@ -15,7 +15,7 @@ Um usuário recebe o seguinte email:
 
 ---
 
-## 🚨 Indicadores de Phishing
+## 🚨 Indicador de Phishing
 
 Durante a análise, foram identificados os seguintes sinais suspeitos:
 
