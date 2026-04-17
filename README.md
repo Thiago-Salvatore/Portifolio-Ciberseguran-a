@@ -18,10 +18,10 @@ Tenho interesse em atuar na área de segurança, especialmente em análise de am
 
 ## 📂 Projetos
 
-### 🔐 Análise de Ataque de Phishing (Simulado)
-- Identificação de sinais de fraude  
-- Análise de impacto  
-- Sugestões de prevenção  
+### 🔐 Análise de Ataque de Phishing
+Projeto prático de análise de um cenário de phishing, identificando sinais de fraude, riscos e medidas de prevenção.
+
+👉 [Ver projeto completo](./analise-phishing.md)
 
 ### 🛡️ Checklist de Segurança
 - Senhas fortes  
